@@ -1,0 +1,18 @@
+.danger {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.success {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.counter, .counter button, span {
+    padding : 5px;
+    margin-right: 10px
+}
